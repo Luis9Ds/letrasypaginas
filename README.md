@@ -1,5 +1,5 @@
 GitHub:
-https://github.com/danielvs01/letrasypaginas.git
+https://github.com/Luis9Ds/letrasypaginas
 
 Modelo
 Categoria: Representa una categoría de libros con id y nombre.
